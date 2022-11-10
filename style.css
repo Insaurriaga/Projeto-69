@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.travel_mainDiv
+{
+border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin: 20px;
+}
